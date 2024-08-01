@@ -204,7 +204,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url("https://raw.githubusercontent.com/dev-brunoliveira/Patrizi/main/hero-bg.png");
 	background-size: cover;
 	background-position: top center;
 	position: relative;
